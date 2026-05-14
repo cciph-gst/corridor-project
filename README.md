@@ -1,2 +1,2 @@
-# trial-1
+# Trial 1
 Web Map for MFBCP Land Cover Change
